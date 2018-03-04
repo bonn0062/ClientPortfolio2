@@ -544,7 +544,7 @@ nav ul li {
     overflow: hidden;
 }
 .main_service_content img{
-    width:50%;
+    width:100%;
 }
 .main_service_content .single_service{
     margin-top:25%;
