@@ -2590,3 +2590,34 @@ xclip
   padding: 10px 15px;
   font-size: 8px;
 }
+
+/*==========================================
+PRE LOADER 
+==========================================*/
+
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fefefe;
+  z-index: 99999;
+  height: 100%;
+  width: 100%;
+  overflow: hidden !important;
+}
+.preloader h2 {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+.loaded {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -20px 0 0 -20px;
+}
