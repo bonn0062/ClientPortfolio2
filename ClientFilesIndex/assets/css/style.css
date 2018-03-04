@@ -700,7 +700,7 @@ nav ul li {
 ====================================================================*/
 
 .main_testimonial_area{
-    background: url(/ClientPortfolio2/ClientFilesIndex/assets/images/IMG_9.jpg) no-repeat top center;
+    background: url(/ClientFilesIndex/assets/images/IMG_9.jpg) no-repeat top center;
     background-size:cover;
     position: relative;
 }
