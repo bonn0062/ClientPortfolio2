@@ -616,6 +616,25 @@ nav ul li {
     height: 575px;
 }
 
+/*====================================================================
+                 Tools Section 
+======================================================================*/
+
+.main_tools_area{
+    overflow: hidden;
+}
+
+.main_tools_area .single_tool i{
+    border:1px solid rgb(255, 72, 40);
+    color:rgb(255, 72, 40);
+    width:60px;
+    height: 60px;
+    line-height: 60px;
+    font-size:2.225rem;
+    border-radius: 50%;
+    margin-bottom:1.875rem;
+}
+
 
 /*=====================================================================
                    Team Section
@@ -681,7 +700,7 @@ nav ul li {
 ====================================================================*/
 
 .main_testimonial_area{
-    background: url(../images/testbg.jpg) no-repeat top center;
+    background: url(/ClientFilesIndex/assets/images/IMG_9.jpg) no-repeat top center;
     background-size:cover;
     position: relative;
 }
